@@ -1,9 +1,8 @@
 import java.util.*;
 public class Admissions {
     public static void main(String[] args) {
-        // 1 is Elite
-        // 2+ is solid
-        // No Nopes
+        // (1 Elite || 2 Solid || Padjen) && (!Nope)
+
 
         //INITIALIZING VARS
         // variable = original variable value
